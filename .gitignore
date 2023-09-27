@@ -159,7 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# demo_data
+# demo_daatfor
 /tutorial/demo_data/cibersort_liver/all-liver_0_cybersort_mix.tsv.gz
 /tutorial/demo_data/cibersort_liver/all-liver_0_cybersort_sig.tsv.gz
 /tutorial/demo_data/BuDDI_results/*
