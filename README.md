@@ -9,6 +9,7 @@ The expected directory structure is:
     - sc_preprocessing
     - kang_analysis
     - liver_analysis
+    - synovium_analysis
     - bayesprism_scripts
     - data (from figshare)
     - results (from figshare)
@@ -23,6 +24,7 @@ The analysis folders contain the following information:
     - This includes the code for CVAE and PCA comparisons in the folder [kang_comparators](https://github.com/greenelab/buddi_analysis/tree/main/kang_analysis/kang_comparators)
 - [liver_analysis](https://github.com/greenelab/buddi_analysis/tree/main/liver_analysis): code to generate figure 4, supp. fig 2,3,6, supp. table 2,3
     - This includes the code for CVAE and PCA comparisons in the folder [sex_prediction_comparators](https://github.com/greenelab/buddi_analysis/tree/main/liver_analysis/sex_prediction_comparators)
+- [synovium_analysis](https://github.com/greenelab/buddi_analysis/tree/main/synovium_analysis): code to generate figure 5, supp. fig 7, supp. table 4
 - [bayesprism_scripts](https://github.com/greenelab/buddi_analysis/tree/main/bayesprism_scripts): R and shell scripts to run [BayesPrism](https://doi.org/10.1038/s43018-022-00356-3)
 
 
