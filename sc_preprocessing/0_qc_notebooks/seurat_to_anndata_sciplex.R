@@ -39,7 +39,6 @@ get_raw_counts <- function(raw_data_file){
     return(list(seurat_df, metadata_df, gene_df))
 }
 
-curr_dir = "/Users/davidnat/Documents/projects/greenelab/buddi_test/buddi_analysis/"
 
 raw_data_file = paste0(curr_dir, "/data/single_cell_data/sciplex/GSM4150378_sciPlex3_A549_24hrs.rds")
 monocle_df = readRDS(raw_data_file)
